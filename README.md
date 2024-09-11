@@ -1,6 +1,4 @@
 # preprojects
-contains some coding work for preview
-
 ## backendsite-python
 Simple project files in which I made the back-end of a small website on which hotel reservations could be made. Used python for db connection and sql queries.  
 
